@@ -1,13 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=800&color=00C7F7&center=true&vCenter=true&width=600&lines=Hi+there+👋;I+am+ASSSSSSSSSWEEKEND;DevOps+%26+Developer)](https://git.io/typing-svg)
-
-
-Привет! Я Матвей Генчев 👋  
-Фронтенд-разработчик, увлечённый созданием современных веб-приложений.  
-Работаю со стеком JavaScript/TypeScript, люблю React, Vue и крутые UI.
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=800&color=00C7F7&center=true&vCenter=true&width=600&lines=Hi+there+👋;I+am+Matvey;FullStack+%26+Developer)](https://git.io/typing-svg)
 
 ---
-
-## ./matvey --help
 
 🎓 Фронтенд-разработчик с практическим опытом в:
 - 📦 React / Vue 3 / Next.js
@@ -23,10 +16,7 @@
 
 📫 Контакты:
 - Telegram: [@Leveld_up_alone](https://t.me/Leveld_up_alone)
-
----
-
-## ./matvey --code
+  
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
@@ -38,9 +28,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 
----
-
-## ⏱️ GitHub Stats
+ ⏱️ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elibroo999&show_icons=true&theme=radical)
 
